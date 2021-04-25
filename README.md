@@ -1,4 +1,3 @@
-# v_craft
+# maven-project
 
-This is for tutorial purpose. 
-My first time on the puppet. 
+Simple Maven Project
